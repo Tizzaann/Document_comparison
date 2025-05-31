@@ -1,0 +1,4 @@
+.venv
+venv/
+.wikipedia_embeddings
+wikipedia_embeddings/
